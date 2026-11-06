@@ -1,4 +1,4 @@
-[caso_de_estudio_programaci_n_funcional (2).md](https://github.com/user-attachments/files/34457071/caso_de_estudio_programaci_n_funcional.2.md)
+
 # Parte 1: Explorar la Programación Funcional en el Mundo Real
 
 ## Caso de estudio empresarial: Funeraria Jaramillo (Loja, Ecuador)
